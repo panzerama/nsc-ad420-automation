@@ -6,37 +6,37 @@
             "value": "westus"
         },
         "virtualMachineName": {
-            "value": "automation-test"
+            "value": "jpanzer-automation"
         },
         "virtualMachineSize": {
             "value": "Standard_B1s"
         },
         "adminUsername": {
-            "value": "toddysmroot"
+            "value": "jpanzer"
         },
         "virtualNetworkName": {
-            "value": "nsc-automation-vnet"
+            "value": "jpanzer-automation-vnet"
         },
         "networkInterfaceName": {
-            "value": "automation-test932"
+            "value": "jpanzer-automation"
         },
         "diskSizeGB": {
             "value": "30"
         },
         "networkSecurityGroupName": {
-            "value": "automation-test-nsg"
+            "value": "jpanzer-automation-nsg"
         },
         "adminPassword": {
             "value": null
         },
         "diagnosticsStorageAccountName": {
-            "value": "nscautomationdiag"
+            "value": "jpanzerautomationdiag"
         },
         "diagnosticsStorageAccountType": {
             "value": "Standard_LRS"
         },
         "diagnosticsStorageAccountId": {
-            "value": "Microsoft.Storage/storageAccounts/nscautomationdiag"
+            "value": "Microsoft.Storage/storageAccounts/jpanzerautomationdiag"
         },
         "addressPrefix": {
             "value": "10.0.0.0/24"
@@ -48,7 +48,7 @@
             "value": "10.0.0.0/24"
         },
         "publicIpAddressName": {
-            "value": "automation-test-ip"
+            "value": "jpanzer-automation-ip"
         },
         "publicIpAddressType": {
             "value": "Dynamic"
